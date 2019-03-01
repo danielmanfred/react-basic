@@ -1,1 +1,3 @@
-import test from '../../../services/api'
+import test from './../../../services/api'
+
+console.log(test)

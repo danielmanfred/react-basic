@@ -2,6 +2,7 @@ import React from 'react'
 
 import Post from './Post'
 import RoutesComponent from './Routes'
+import TodoItem from './TodoList/TodoItem'
 
 export default class App extends React.Component {
     render() {
